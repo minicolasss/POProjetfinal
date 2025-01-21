@@ -2,12 +2,15 @@
 #define CLASSE
 
 #include <iostream>
+#include <vector> 
 
 using namespace std;
 
 
 int choix_instrument();
 int choix_musique();
+int choix_rythme();
+void play_music(const vector<pair<string, double>>& music, double speed_factor = 1.0);
 
 class instrument
 {

@@ -124,6 +124,73 @@ int choix_musique()
     return indexchoix;
 }
 
+int choix_rythme()
+{
+    int i = 0;
+    int indexchoix;
+    while (i == 0)
+    {
+        cout << "Vous devez choisir le rythme de la musique.\n" << "1 pour lent, 2 pour classique, 3 pour rapide : ";
+        cin >> indexchoix;
+        if (indexchoix == 1)
+        {
+            int index;
+            cout << "Vous avez choisi lent. Tapez 1 pour confirmer ou 0 pour revenir au menu : ";
+            cin >> index;
+
+            if (index == 1)
+            {
+                cout << "Vous avez confirmer lent !\n";
+                i = 1;
+            }
+            else
+            {
+                system("cls");
+                cout << "Retour au menu...\n";
+            }
+        }
+        else if (indexchoix == 2)
+        {
+            int index;
+            cout << "Vous avez choisi classique. Tapez 1 pour confirmer ou 0 pour revenir au menu : ";
+            cin >> index;
+
+            if (index == 1)
+            {
+                cout << "Vous confirmer classique !\n";
+                i = 1;
+            }
+            else
+            {
+                cout << "Retour au menu...\n";
+            }
+        }
+        else if (indexchoix == 3)
+        {
+            int index;
+            cout << "Vous avez choisi rapide. Tapez 1 pour confirmer ou 0 pour revenir au menu : ";
+            cin >> index;
+
+            if (index == 1)
+            {
+                cout << "Vous confirmer rapide !\n";
+                i = 1;
+            }
+            else
+            {
+                cout << "Retour au menu...\n";
+            }
+        }
+        else
+        {
+            system("cls");
+            cout << "Entree incorrecte.\n";
+        }
+    }
+    system("cls");
+    return indexchoix;
+}
+
 
 
 string instrument::get_nom()
