@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\projetfinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\projetfinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\musique.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\musique.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -11,16 +15,12 @@
       "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\classe.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\projetfinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\projetfinal.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\instrument.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\instrument.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{827DF1B1-1121-4610-A4C9-56620360E2AF}|projetfinal\\projetfinal.vcxproj|solutionrelative:projetfinal\\fonction.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "instrument.cpp",
               "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\instrument.cpp",
               "RelativeDocumentMoniker": "projetfinal\\instrument.cpp",
@@ -47,52 +47,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "musique.cpp",
               "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\musique.cpp",
               "RelativeDocumentMoniker": "projetfinal\\musique.cpp",
               "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\musique.cpp",
               "RelativeToolTip": "projetfinal\\musique.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T09:26:28.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "fonction.cpp",
               "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\fonction.cpp",
               "RelativeDocumentMoniker": "projetfinal\\fonction.cpp",
               "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\fonction.cpp",
               "RelativeToolTip": "projetfinal\\fonction.cpp",
-              "ViewState": "AgIAAIwAAAAAAAAAAAAAAJ8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T08:43:15.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "classe.hpp",
               "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\classe.hpp",
               "RelativeDocumentMoniker": "projetfinal\\classe.hpp",
               "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\classe.hpp",
               "RelativeToolTip": "projetfinal\\classe.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-01-21T08:43:02.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "projetfinal.cpp",
               "DocumentMoniker": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\projetfinal.cpp",
               "RelativeDocumentMoniker": "projetfinal\\projetfinal.cpp",
               "ToolTip": "C:\\Users\\NICOLAS\\Desktop\\codes\\POProjetfinal\\projetfinal\\projetfinal\\projetfinal.cpp",
               "RelativeToolTip": "projetfinal\\projetfinal.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMEAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAFsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-21T08:42:16.361Z",
               "EditorCaption": ""

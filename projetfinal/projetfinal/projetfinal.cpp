@@ -89,17 +89,17 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique mario lent ce joue avec le piano";
+				cout << "la musique mario lent ce joue avec le piano \n";
 				play_music(marioclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique mario classique ce joue avec le piano";
+				cout << "la musique mario classique ce joue avec le piano \n";
 				play_music(marioclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique mario rapide ce joue avec le piano";
+				cout << "la musique mario rapide ce joue avec le piano \n";
 				play_music(marioclassique, 0.5);
 			}
 
@@ -110,17 +110,17 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique star wars lent ce joue avec le piano";
+				cout << "la musique star wars lent ce joue avec le piano \n";
 				play_music(starwarsclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique star wars classique ce joue avec le piano";
+				cout << "la musique star wars classique ce joue avec le piano \n";
 				play_music(starwarsclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique star wars rapide ce joue avec le piano";
+				cout << "la musique star wars rapide ce joue avec le piano \n";
 				play_music(starwarsclassique, 0.5);
 			}
 		}
@@ -134,17 +134,17 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique mario lent ce joue avec le xylophone";
+				cout << "la musique mario lent ce joue avec le xylophone \n";
 				play_music(marioclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique mario classique ce joue avec le xylophone";
+				cout << "la musique mario classique ce joue avec le xylophone \n";
 				play_music(marioclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique mario rapide ce joue avec le xylophone";
+				cout << "la musique mario rapide ce joue avec le xylophone \n";
 				play_music(marioclassique, 0.5);
 			}
 		}
@@ -153,17 +153,17 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique star wars lent ce joue avec le xylophone";
+				cout << "la musique star wars lent ce joue avec le xylophone \n";
 				play_music(starwarsclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique star wars classique ce joue avec le xylophone";
+				cout << "la musique star wars classique ce joue avec le xylophone \n";
 				play_music(starwarsclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique star wars rapide ce joue avec le xylophone";
+				cout << "la musique star wars rapide ce joue avec le xylophone \n";
 				play_music(starwarsclassique, 0.5);
 			}
 		}
@@ -177,17 +177,17 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique mario lent ce joue avec la guitare";
+				cout << "la musique mario lent ce joue avec la guitare \n";
 				play_music(marioclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique mario classique ce joue avec la guitare";
+				cout << "la musique mario classique ce joue avec la guitare \n";
 				play_music(marioclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique mario rapide ce joue avec la guitare";
+				cout << "la musique mario rapide ce joue avec la guitare \n";
 				play_music(marioclassique, 0.5);
 			}
 		}
@@ -196,21 +196,21 @@ int main()
 			int choixryt = choix_rythme();
 			if (choixryt == 1)
 			{
-				cout << "la musique star wars lent ce joue avec la guitare";
+				cout << "la musique star wars lent ce joue avec la guitare \n";
 				play_music(starwarsclassique, 1.5);
 			}
 			if (choixryt == 2)
 			{
-				cout << "la musique star wars classique ce joue avec la guitare";
+				cout << "la musique star wars classique ce joue avec la guitare \n";
 				play_music(starwarsclassique, 1.0);
 			}
 			if (choixryt == 3)
 			{
-				cout << "la musique star wars rapide ce joue avec la guitare";
+				cout << "la musique star wars rapide ce joue avec la guitare \n";
 				play_music(starwarsclassique, 0.5);
 			}
 		}
-	}
+      	}
 
 
 }
